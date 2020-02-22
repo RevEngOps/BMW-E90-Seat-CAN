@@ -17,7 +17,7 @@ With regards to the CAN-BUS shield, I utilized the DB9 connector with the follow
 - Pin 3 - CAN High
 - Pin 5 - CAN Low
 
-I power the Arduino utilizing a barrel connector connected to a DC 12V to 5V buck converter good for 2A (more than enough).
+I power the Arduino utilizing a barrel connector connected to a DC 12V to 9V buck converter good for 2A (more than enough).
 
 **This is a work in progress**
 
