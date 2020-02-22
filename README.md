@@ -19,6 +19,6 @@ With regards to the CAN-BUS shield, I utilized the DB9 connector with the follow
 
 I power the Arduino utilizing a barrel connector connected to a DC 12V to 5V buck converter good for 2A (more than enough).
 
-**This is a work in progress** and has only yet been tested utilizing a Raspberry Pi with a similar CAN hat.  In theory, everything should work the same with the Arduino.  I'll be getting around to testing this soon.
+**This is a work in progress**
 
 <a href="https://ibb.co/hHqFL3x"><img src="https://i.ibb.co/hHqFL3x/IMG-20200221-222630.jpg" alt="IMG-20200221-222630" border="0"></a> <a href="https://ibb.co/z2jyFfh"><img src="https://i.ibb.co/z2jyFfh/IMG-20200221-222701.jpg" alt="IMG-20200221-222701" border="0"></a>
